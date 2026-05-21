@@ -14,5 +14,5 @@ cube <- function(x)
 
 quad <- function(x)
 {
-   sq(x) * sq(x)
+   x^4
 }
