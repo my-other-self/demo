@@ -16,3 +16,7 @@ quad <- function(x)
 {
    x^4
 }
+
+pwr <- function(x, n=2) {
+    x^n
+}
